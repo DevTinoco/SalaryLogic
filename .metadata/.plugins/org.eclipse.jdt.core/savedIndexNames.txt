@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\WS-Logic II\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2373500367.index
+2872890695.index
